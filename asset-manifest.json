@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/LeagueDeathCounter/static/js/main.1bf8871c.js",
+    "main.js": "/LeagueDeathCounter/static/js/main.fc2805cb.js",
     "static/js/787.6a447277.chunk.js": "/LeagueDeathCounter/static/js/787.6a447277.chunk.js",
     "index.html": "/LeagueDeathCounter/index.html",
-    "main.1bf8871c.js.map": "/LeagueDeathCounter/static/js/main.1bf8871c.js.map",
+    "main.fc2805cb.js.map": "/LeagueDeathCounter/static/js/main.fc2805cb.js.map",
     "787.6a447277.chunk.js.map": "/LeagueDeathCounter/static/js/787.6a447277.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1bf8871c.js"
+    "static/js/main.fc2805cb.js"
   ]
 }
