@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/leaguedeathcounter/static/js/main.e876f8cd.js",
+    "static/js/787.6a447277.chunk.js": "/leaguedeathcounter/static/js/787.6a447277.chunk.js",
+    "index.html": "/leaguedeathcounter/index.html",
+    "main.e876f8cd.js.map": "/leaguedeathcounter/static/js/main.e876f8cd.js.map",
+    "787.6a447277.chunk.js.map": "/leaguedeathcounter/static/js/787.6a447277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e876f8cd.js"
+  ]
+}
